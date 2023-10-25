@@ -1,0 +1,17 @@
+C:\Users\Muslum\Desktop\26 October\26 October\bin\Debug\net6.0\26 October.exe
+C:\Users\Muslum\Desktop\26 October\26 October\bin\Debug\net6.0\26 October.deps.json
+C:\Users\Muslum\Desktop\26 October\26 October\bin\Debug\net6.0\26 October.runtimeconfig.json
+C:\Users\Muslum\Desktop\26 October\26 October\bin\Debug\net6.0\26 October.dll
+C:\Users\Muslum\Desktop\26 October\26 October\bin\Debug\net6.0\26 October.pdb
+C:\Users\Muslum\Desktop\26 October\26 October\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Muslum\Desktop\26 October\26 October\obj\Debug\net6.0\26 October.csproj.AssemblyReference.cache
+C:\Users\Muslum\Desktop\26 October\26 October\obj\Debug\net6.0\26 October.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muslum\Desktop\26 October\26 October\obj\Debug\net6.0\26 October.AssemblyInfoInputs.cache
+C:\Users\Muslum\Desktop\26 October\26 October\obj\Debug\net6.0\26 October.AssemblyInfo.cs
+C:\Users\Muslum\Desktop\26 October\26 October\obj\Debug\net6.0\26 October.csproj.CoreCompileInputs.cache
+C:\Users\Muslum\Desktop\26 October\26 October\obj\Debug\net6.0\26 October.csproj.CopyComplete
+C:\Users\Muslum\Desktop\26 October\26 October\obj\Debug\net6.0\26 October.dll
+C:\Users\Muslum\Desktop\26 October\26 October\obj\Debug\net6.0\refint\26 October.dll
+C:\Users\Muslum\Desktop\26 October\26 October\obj\Debug\net6.0\26 October.pdb
+C:\Users\Muslum\Desktop\26 October\26 October\obj\Debug\net6.0\26 October.genruntimeconfig.cache
+C:\Users\Muslum\Desktop\26 October\26 October\obj\Debug\net6.0\ref\26 October.dll
