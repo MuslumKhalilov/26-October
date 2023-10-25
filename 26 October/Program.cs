@@ -13,7 +13,7 @@
 //            string NameThatWeWantToAdd = Console.ReadLine();
 //            Add(NameThatWeWantToAdd);
 
-//            Console.WriteLine("Enter a name to search:");
+//            Console.WriteLine("Axtarmaq istediyiniz adi daxil edin:");
 //            string SearchedName = Console.ReadLine();
 //            bool SearchResult = Search(SearchedName, (name) => name == SearchedName);
 //            Console.WriteLine($"Search result: {SearchResult}");
